@@ -1,6 +1,6 @@
 # 냠냠(yumyum)
 Recipe curation service for who wants to use their own ingredients
-> :warning: **Important Note: c9.io integrated to AWS, so source codes and datas in c9 server is disappeared**
+> :warning: **Important Note: Since c9.io integrated to AWS, source code and data in c9 server is no longer exist**
 ### Getting Started
 ---------------------
 #### Prequisities
