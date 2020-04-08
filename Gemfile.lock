@@ -196,7 +196,7 @@ GEM
       mime-types (>= 1.16, < 3)
     mime-types (2.6.1)
     mimemagic (0.3.0)
-    mini_magick (4.2.10)
+    mini_magick (4.9.4)
     mini_portile (0.6.2)
     minitest (5.7.0)
     multi_json (1.11.1)
