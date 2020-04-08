@@ -13,4 +13,4 @@ Recipe curation service for who wants to use their own ingredients
 |[paperclip](https://github.com/thoughtbot/paperclip)|File upload library to upload files or images|
 |[devise](https://github.com/heartcombo/devise)|Account authentication library for rails app|
 #### Modeling
-![yumyum_model](https://drive.google.com/uc?id=1CEawZTV1pWO1hjkzr9U8Iv-0emtMnp6C)
+![yumyum_model](https://drive.google.com/uc?export=view&id=1CEawZTV1pWO1hjkzr9U8Iv-0emtMnp6C)
