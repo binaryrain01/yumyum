@@ -1,28 +1,9 @@
-<<<<<<< HEAD
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://yumyum-binaryrain01.c9.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-=======
-# modelcheck
->>>>>>> 1134a0a24b0efc10f85357fd1c98fc4af77aecef
+# 냠냠(yumyum)
+Recipe curation service for who wants to use their own ingredients
+### Getting Started
+---------------------
+##### Prequisities
+|Require|Description|
+|-------|-----------|
+|[figaro](https://github.com/laserlemon/figaro)|Make easy to securely configure rails app|
+|[fog](https://github.com/fog/fog)|Cloud services library for ruby|
